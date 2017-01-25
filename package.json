@@ -1,0 +1,27 @@
+{
+  "name": "jlouvain",
+  "version": "1.0.0",
+  "description": "Louvain community detection for Javascript",
+  "main": "jLouvain.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterra/jLouvain.git"
+  },
+  "keywords": [
+    "sna",
+    "community",
+    "detection"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walterra/jLouvain/issues"
+  },
+  "homepage": "https://github.com/walterra/jLouvain#readme"
+}
